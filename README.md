@@ -1,0 +1,1 @@
+# calculadoraApp_fx
